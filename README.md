@@ -1,6 +1,6 @@
 
 # Monochrome
-Monochrome Theme made using HTML,CSS, and Bootstrap.
+Monochrome Website made with HTML,CSS, and Bootstrap.
 
 
 ## Technologies
